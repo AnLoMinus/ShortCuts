@@ -3,80 +3,80 @@
 ## The editor's keystrokes and their functions         
 
 # File handling
-- Ctrl+S Save current file
-- Ctrl+O Offer to write file ("Save as")
-- Ctrl+R Insert a file into current one
-- Ctrl+X Close buffer, exit from nano
+- `ctrl+S` Save current file
+- `ctrl+O` Offer to write file ("Save as")
+- `ctrl+R` Insert a file into current one
+- `ctrl+X` Close buffer, exit from nano
 
 # Editing
-- Ctrl+K Cut current line into cutbuffer
-- Alt+6	Copy current line into cutbuffer
-- Ctrl+U Paste contents of cutbuffer
-- Alt+T	Cut until end of buffer
-- Ctrl+] Complete current word
-- Alt+3	Comment/uncomment line/region
-- Alt+U	Undo last action
-- Alt+E	Redo last undone action
+- `ctrl+K` Cut current line into cutbuffer
+- `alt+6`	Copy current line into cutbuffer
+- `ctrl+U` Paste contents of cutbuffer
+- `alt+T`	Cut until end of buffer
+- `ctrl+]` Complete current word
+- `alt+3`	Comment/uncomment line/region
+- `alt+U`	Undo last action
+- `alt+E`	Redo last undone action
 
 # Search and replace
-- Ctrl+Q Start backward search
-- Ctrl+W Start forward search
-- Alt+Q	Find next occurrence backward
-- Alt+W	Find next occurrence forward
-- Alt+R	Start a replacing session
+- `ctrl+Q` Start backward search
+- `ctrl+W` Start forward search
+- `alt+Q`	Find next occurrence backward
+- `alt+W`	Find next occurrence forward
+- `alt+R`	Start a replacing session
 
 Deletion
-- Ctrl+H	Delete character before cursor      
-- Ctrl+D	Delete character under cursor
-- Alt+Bsp	Delete word to the left
-- Ctrl+Del   	Delete word to the right
-- Alt+Del	Delete current line
+- `ctrl+H`	Delete character before cursor      
+- `ctrl+D`	Delete character under cursor
+- `alt+Bsp`	Delete word to the left
+- `ctrl+Del`   	Delete word to the right
+- `alt+Del`	Delete current line
 
 Operations
-- Ctrl+T   	Execute some command
-- Ctrl+J	Justify paragraph or region
-- Alt+J	Justify entire buffer
-- Alt+B	Run a syntax check
-- Alt+F	Run a formatter/fixer/arranger
-- Alt+:	Start/stop recording of macro
-- Alt+;	Replay macro
+- `ctrl+T`   	Execute some command
+- `ctrl+J`	Justify paragraph or region
+- `alt+J`	Justify entire buffer
+- `alt+B`	Run a syntax check
+- `alt+F`	Run a formatter/fixer/arranger
+- `alt+:`	Start/stop recording of macro
+- `alt+;`	Replay macro
 
 # Moving around
-- Ctrl+B   	One character backward
-- Ctrl+F	One character forward
-- Ctrl+←	One word backward
-- Ctrl+→	One word forward
-- Ctrl+A	To start of line
-- Ctrl+E	To end of line
-- Ctrl+P	One line up
-- Ctrl+N	One line down
-- Ctrl+↑	To previous block
-- Ctrl+↓	To next block
-- Ctrl+Y	One page up
-- Ctrl+V	One page down
-- Alt+\	To top of buffer
-- Alt+/	To end of buffer
+- `ctrl+B`   	One character backward
+- `ctrl+F`	One character forward
+- `ctrl+←`	One word backward
+- `ctrl+→`	One word forward
+- `ctrl+A`	To start of line
+- `ctrl+E`	To end of line
+- `ctrl+P`	One line up
+- `ctrl+N`	One line down
+- `ctrl+↑`	To previous block
+- `ctrl+↓`	To next block
+- `ctrl+Y`	One page up
+- `ctrl+V`	One page down
+- `alt+\`	To top of buffer
+- `alt+/`	To end of buffer
 
 # Special movement
-- Alt+G    	Go to specified line
-- Alt+]	Go to complementary bracket
-- Alt+↑	Scroll viewport up
-- Alt+↓	Scroll viewport down
-- Alt+<	Switch to preceding buffer
-- Alt+>	Switch to succeeding buffer
+- `alt+G`    	Go to specified line
+- `alt+]`	Go to complementary bracket
+- `alt+↑`	Scroll viewport up
+- `alt+↓`	Scroll viewport down
+- `alt+<`	Switch to preceding buffer
+- `alt+>`	Switch to succeeding buffer
 
 # Information
-- Ctrl+C   	Report cursor position
-- Alt+D	Report line/word/character count
-- Ctrl+G	Display help text
+- `ctrl+C`  	Report cursor position
+- `alt+D`	Report line/word/character count
+- `ctrl+G`	Display help text
 
 # Various
-- Alt+A	Turn the mark on/off
+- `alt+A`	Turn the mark on/off
 
 # Tab	Indent marked region
-- Shift+Tab   	Unindent marked region
-- Alt+V	Enter next keystroke verbatim
-- Alt+N	Turn line numbers on/off
-- Alt+P	Turn visible whitespace on/off
-- Alt+X	Hide or unhide the help lines
-- Ctrl+L	Refresh the screen
+- `Shift+Tab`   	Unindent marked region
+- `alt+V`	Enter next keystroke verbatim
+- `alt+N`	Turn line numbers on/off
+- `alt+P`	Turn visible whitespace on/off
+- `alt+X`	Hide or unhide the help lines
+- `ctrl+L`	Refresh the screen
