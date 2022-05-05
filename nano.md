@@ -1,5 +1,5 @@
 
-# Overview of nano's shortcuts      
+# Overview of nano's shortcuts ~ [source](https://www.nano-editor.org/dist/latest/cheatsheet.html)
 ## The editor's keystrokes and their functions         
 
 # File handling
